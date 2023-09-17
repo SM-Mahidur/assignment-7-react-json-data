@@ -5,88 +5,88 @@
     "title": "Introduction to C Programming",
     "description": "It is a long established fact that a reader will be istracted by the readable content of a page when looking at its layout.",
     "dollar_sign": "$",
-    "price": 49.99,
+    "price": 15000,
     "book_image_url": "https://example.com/book1.jpg",
-    "credit_hour": 3
+    "credit_hour": 1hr
   },
   {
     "id": 2,
     "courseImageUrl": "https://example.com/image2.jpg",
-    "title": "Introduction to C Programming",
+    "title": "Introduction to Algorithms",
     "description": "It is a long established fact that a reader will be istracted by the readable content of a page when looking at its layout.",
     "dollar_sign": "$",
-    "price": 149.99,
+    "price": 25000,
     "book_image_url": "https://example.com/book1.jpg",
-    "credit_hour": 4
+    "credit_hour": 2hr
   },
   {
     "id": 3,
     "courseImageUrl": "https://example.com/image3.jpg",
-    "title": "Introduction to C Programming",
+    "title": "Introduction to C++ for DSA",
     "description": "It is a long established fact that a reader will be istracted by the readable content of a page when looking at its layout.",
     "dollar_sign": "$",
-    "price": 249.99,
+    "price": 10000,
     "book_image_url": "https://example.com/book1.jpg",
-    "credit_hour": 7
+    "credit_hour": 10hr
   },
   {
     "id": 4,
     "courseImageUrl": "https://example.com/image4.jpg",
-    "title": "Introduction to C Programming",
+    "title": "Basic Data Structures",
     "description": "It is a long established fact that a reader will be istracted by the readable content of a page when looking at its layout.",
     "dollar_sign": "$",
-    "price": 449.99,
+    "price": 35000,
     "book_image_url": "https://example.com/book1.jpg",
-    "credit_hour": 4
+    "credit_hour": 5hr
   },
   {
     "id": 5,
     "courseImageUrl": "https://example.com/image5.jpg",
-    "title": "Introduction to C Programming",
+    "title": "Introduction to OOP Python",
     "description": "It is a long established fact that a reader will be istracted by the readable content of a page when looking at its layout.",
     "dollar_sign": "$",
-    "price": 549.99,
+    "price": Price : 19000,
     "book_image_url": "https://example.com/book1.jpg",
-    "credit_hour": 5
+    "credit_hour": 5hr
   },
   {
     "id": 6,
     "courseImageUrl": "https://example.com/image6.jpg",
-    "title": "Introduction to C Programming",
+    "title": "Software Engineering",
     "description": "It is a long established fact that a reader will be istracted by the readable content of a page when looking at its layout.",
     "dollar_sign": "$",
-    "price": 649.99,
+    "price": 23000,
     "book_image_url": "https://example.com/book1.jpg",
-    "credit_hour": 63
+    "credit_hour": 2hr
   },
   {
     "id": 7,
     "courseImageUrl": "https://example.com/image7.jpg",
-    "title": "Introduction to C Programming",
+    "title": "AWS, Cloud Computing",
     "description": "It is a long established fact that a reader will be istracted by the readable content of a page when looking at its layout.",
     "dollar_sign": "$",
-    "price": 749.99,
+    "price": 35000,
     "book_image_url": "https://example.com/book1.jpg",
-    "credit_hour": 73
+    "credit_hour": 5hr
   },
   {
     "id": 8,
     "courseImageUrl": "https://example.com/image8.jpg",
-    "title": "Introduction to C Programming",
+    "title": "Database (MySQL)",
     "description": "It is a long established fact that a reader will be istracted by the readable content of a page when looking at its layout.",
     "dollar_sign": "$",
-    "price": 849.99,
+    "price": 19000,
     "book_image_url": "https://example.com/book1.jpg",
-    "credit_hour": 83
+    "credit_hour": 5hr
   },
   {
     "id": 1,
     "courseImageUrl": "https://example.com/image1.jpg",
-    "title": "Introduction to C Programming",
+    "title": "Problem-Solving Part",
     "description": "It is a long established fact that a reader will be istracted by the readable content of a page when looking at its layout.",
     "dollar_sign": "$",
-    "price": 49.99,
+    "price": 23000,
     "book_image_url": "https://example.com/book1.jpg",
-    "credit_hour": 3
+    "credit_hour": 2hr
   }
 ]
